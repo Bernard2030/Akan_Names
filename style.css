@@ -6,20 +6,20 @@ body, html {
     box-sizing: border-box;
   }
   
-  /* .birth-day {
+   .birth-day {
     /* The image used */
-    /* background-image: url("./Assets/Akan\ children\ .jpg");
-   */
-    /* Control the height of the image */
-    /* min-height: 1100px; */
+     background-image: url("./Assets/Akan\ children\ .jpg");
+   
+     /* Control the height of the image */ 
+     min-height: 1100px; 
   
-    /* Center and scale the image nicely */
-    /* background-position: center;
+     /* Center and scale the image nicely  */
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-  }
-   */
+  } 
+   
   /* Add styles to the form container */
   /* .container {
     position: absolute;
