@@ -49,7 +49,7 @@ body, html {
   }
   
   /* Set a style for the submit button */
-  /* #red {
+   #red {
     background-color: #04AA6D;
     color: rgb(92, 9, 9);
     padding: 16px 20px;
@@ -57,7 +57,7 @@ body, html {
     cursor: pointer;
     width: 100%;
     opacity: 0.9;
-  } */
+  } 
   
   /* #red:hover {
     opacity: 1;
