@@ -57,6 +57,7 @@ body, html {
   
   /* Set a style for the submit button */
    #red {
+    text-align: center;
     background-color: #04AA6D;
     color: rgb(92, 9, 9);
     padding: 16px 20px;
@@ -70,16 +71,17 @@ body, html {
     opacity: 1;
   }
    .gender{
+    text-align: center;
     font-family:   'Otomanopee One', sans-serif;
     font-family: 'Roboto Slab', serif;
-      background-color: rgb(85, 139, 139);
+      background-color: rgb(20, 66, 66);
       color: #ddd; 
   } 
-  /* .myResult{
+   /* .myResult{
       width: 100%;
       background-color: rgb(201, 106, 29);
       width: 100%;
-  } */
+  }  */
   /* bghh */
 
   /* this adds the "card" effect*/
