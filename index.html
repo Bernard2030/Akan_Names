@@ -16,10 +16,10 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <div class="bg-img">
-            <form action="/action_page.php" class="container">
-              <h1>Ghanaian Akan Names verifier</h1>
-          
+            <div class="birth-day">
+            <h1>Ghanaian Akan Names verifier</h1>
+            <form action="action_page.html" class="container">
+              
               <label for="month"><b>Month</b></label>
               <input type="number" placeholder="Enter Month" name="month" required>
           
@@ -31,17 +31,29 @@
 
               <h3><strong>Enter your gender</strong></h3>
 
-              <label for="R1">Male</label>
-<input type="Radio" name="Gender" id="R1" value="Male">
+              <div id="radioInput">
+                <label for="gender">Male</label>
+                <input  type="Radio" name="gender" id="genderMale" value="male">
+                
+              </div>
+<div id="radioInput">
+    <label for="gender">Female</label>
+<input type="Radio" name="gender" id="genderFemale" value="female">
 
-<label for="R2">Female</label>
-<input type="Radio" name="Gender" id="R2" value="Female">
+</div>
+<p id="red"></p>
+                <!-- Submit button -->
 
+                <button type="submit" onclick="Akan_Names();">Submit</button>
 
           
-              <button type="submit" class="btn">Submit</button>
+              
             </form>
-          </div>
+        </div>
+        
+        <div class="myResults">
+             <h4><strong><p id="results"></p></strong></h4>
+        </div>
         
         <script src="index.js" async defer></script>
     </body>
