@@ -1,4 +1,4 @@
-/* fonts font-family: 'Otomanopee One', sans-serif;
+/*fonts font-family: 'Otomanopee One', sans-serif;
 font-family: 'Roboto Slab', serif; */
 body,
 html {
@@ -102,5 +102,9 @@ input[type="number"]:focus {
   color: rgb(221, 18, 191);
   font-size: large;
 }
+/* media queries */
 @media only screen and (min-width: 768px) {
 }
+
+
+
