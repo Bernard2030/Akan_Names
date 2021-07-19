@@ -8,7 +8,7 @@ Akan names are Ghanaian names that are given to new born boys and girls based on
 ## Setup/Installation Requirements
 * Open your browser and navigate to the search field
 * Enter the following address into the the search field and press the enter key on your keyboard or search button on your browser https://github.com/Bernard2030/Akan_Names
-On the website, start by typing in, the month you wer born in, in words.
+On the website, start by typing in, the month you were born in, in numbers.
 * Enter the day you were born in which should be between 1 and 31.
 * Enter the year you were born in in numerics.
 * Select your gender
